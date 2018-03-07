@@ -1,0 +1,14 @@
+<raid>
+  <announce delay="1000" type="Event" message="Ferumbra's minions are working on his return to the World. LEAVE Thais at once, mortals." />
+  <announce delay="60000" type="Event" message="Ferumbras is about to make his way into the mortal realm. Run for your lives!" />
+  <announce delay="125000" type="Event" message="Ferumbras has been summoned north Thais." />
+  
+  <!--Area Spawns-->
+  <areaspawn delay="120000" fromx="32368" fromy="32189" fromz="7" tox="32369" toy="32215" toz="7">
+    <monster name="Ferumbras(raid)" amount="1" />
+  </areaspawn>
+ 
+
+
+</raid>
+
