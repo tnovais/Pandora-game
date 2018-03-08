@@ -19,13 +19,13 @@
 #define __DEFINITIONS__
 
 // Compatible with 7.40 to 7.72
-#define SOFTWARE_NAME "SoftCores"
+#define SOFTWARE_NAME "Pandora-OT"
 #define SOFTWARE_VERSION "1.0"
 #define MINOR_VERSION "X"
 #define PATCH_VERSION "S"
 #define REVISION_VERSION "4"
 #define SOFTWARE_CODENAME "LORD ZEDD"
-#define SOFTWARE_DEVELOPERS "Mattyx14 and TFS Developers"
+#define SOFTWARE_DEVELOPERS "Mattyx14, TFS Developers and Eduardo Bello"
 #define GIT_REPO "https://github.com/mattyx14/otxserver/"
 
 #if defined(_MULTIPLATFORM77)
